@@ -1,0 +1,74 @@
+[DEBUG] 2017-04-23 11:50:55,954 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:50:55,994 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:50:57,209 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:52:22,316 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:52:22,331 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:52:23,647 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:53:20,020 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:53:20,038 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:53:21,336 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:54:27,949 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:54:27,967 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:54:29,138 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:56:04,291 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:56:04,308 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:56:05,508 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:57:25,243 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:57:25,278 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:57:26,530 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 11:59:09,625 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 11:59:09,670 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 11:59:11,112 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:01:15,299 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:01:15,329 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:01:16,613 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:07:23,020 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:07:23,037 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:07:24,311 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:08:05,351 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:08:05,367 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:08:06,712 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:09:10,128 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:09:10,142 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:09:11,436 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:11:29,936 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:11:29,956 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:11:31,231 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:13:25,765 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:13:25,791 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:13:27,060 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:14:25,874 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-23 12:14:25,879 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-23 12:14:25,884 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-23 12:14:25,888 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-23 12:14:25,889 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-23 12:17:59,351 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:17:59,368 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:18:00,630 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:19:18,010 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-23 12:19:18,013 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-23 12:19:18,018 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-23 12:19:18,021 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-23 12:19:18,021 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-23 12:21:39,261 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 12:21:39,280 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 12:21:40,581 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 12:22:11,568 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-23 12:22:11,571 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-23 12:22:11,576 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-23 12:22:11,579 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-23 12:22:11,580 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-23 13:41:32,699 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 13:41:32,740 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 13:41:34,089 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 13:42:09,895 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-23 13:42:09,899 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-23 13:42:09,904 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-23 13:42:09,908 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-23 13:42:09,910 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-23 13:43:18,225 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 13:43:18,247 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 13:43:19,562 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-23 22:09:23,935 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-23 22:09:24,021 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-23 22:09:25,737 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window

@@ -39,7 +39,7 @@ public class Driver {
                     myDriver = new InternetExplorerDriver();
                     break;
                 case CHROME:
-                    System.setProperty("webdriver.chrome.driver", "chromedriver/chromedriver.exe");
+                    System.setProperty("webdriver.chrome.driver", "Drive/chromedriver.exe");
                     myDriver = new ChromeDriver();
                     break;
                 case FIREFOX:

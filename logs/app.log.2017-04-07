@@ -1,0 +1,2 @@
+[DEBUG] 2017-04-07 18:45:08,553 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-07 18:45:08,617 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds

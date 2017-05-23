@@ -1,0 +1,22 @@
+[DEBUG] 2017-04-14 09:19:31,073 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:19:31,159 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:33:33,938 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:33:33,964 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:33:35,317 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-14 09:35:10,083 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:35:10,099 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:35:11,426 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-14 09:38:56,364 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:38:56,377 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:38:57,793 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-14 09:42:00,825 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:42:00,843 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:42:02,125 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-14 09:43:12,426 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-14 09:43:12,449 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-14 09:43:13,799 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-14 09:43:47,240 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-14 09:43:47,244 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2017-04-14 09:43:47,250 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2017-04-14 09:43:47,254 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2017-04-14 09:43:47,255 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"

@@ -1,0 +1,85 @@
+[DEBUG] 2017-04-30 11:19:14,321 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:19:14,349 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:19:16,005 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:21:50,408 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-30 11:21:50,410 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-30 11:21:50,413 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-30 11:21:50,414 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-30 11:21:50,415 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-30 11:22:30,275 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:22:30,339 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:22:31,625 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:23:39,885 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:23:39,993 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:23:41,400 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:27:55,820 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:27:55,833 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:27:57,119 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:33:30,967 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:33:31,043 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:33:32,510 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:36:59,178 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:36:59,196 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:37:00,528 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:39:54,141 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:39:54,162 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:39:55,462 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:41:46,727 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:41:46,739 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:41:48,003 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 11:43:06,588 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 11:43:06,604 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 11:43:07,830 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:03:34,841 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:03:35,118 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:03:36,534 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:07:58,339 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:07:58,362 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:07:59,673 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:09:56,375 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:09:56,388 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:09:57,679 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:14:50,158 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:14:50,175 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:14:51,478 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:18:00,330 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:18:00,462 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:18:01,721 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:19:54,319 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:19:54,342 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:19:56,041 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:22:13,998 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:22:14,019 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:25:32,088 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:25:32,513 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:25:34,197 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:26:05,479 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:26:06,199 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:26:07,827 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:27:33,677 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:27:33,695 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:27:35,030 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:30:01,106 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:30:01,528 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:30:03,546 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:32:35,608 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:32:35,635 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:32:36,924 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:51:30,324 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:51:30,340 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:51:31,577 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 12:54:27,230 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 12:54:27,248 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 12:54:28,572 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 13:05:14,461 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 13:05:14,495 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 13:05:15,769 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 13:06:52,776 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 13:06:52,800 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 13:06:54,217 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 13:19:25,156 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 13:19:25,177 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 13:19:26,769 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-30 13:27:03,775 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-30 13:27:03,791 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-30 13:27:05,160 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window

@@ -1,0 +1,52 @@
+[DEBUG] 2017-04-16 11:26:30,549 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 11:26:30,614 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 11:26:31,964 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 11:47:20,123 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 11:47:20,150 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 11:47:21,453 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 11:48:51,158 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 11:48:51,193 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 11:48:53,494 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 11:55:30,842 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 11:55:30,860 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 11:55:33,143 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 12:40:14,930 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 12:40:14,949 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 12:40:16,261 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 12:40:56,220 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-16 12:40:56,222 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2017-04-16 12:40:56,227 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2017-04-16 12:40:56,241 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2017-04-16 12:40:56,242 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2017-04-16 12:43:57,023 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 12:43:57,045 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 12:43:58,320 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 12:44:46,858 freemarker.cache debug(45) Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-16 12:44:46,862 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+[DEBUG] 2017-04-16 12:44:46,866 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+[DEBUG] 2017-04-16 12:44:46,870 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.ftl"): Found
+[DEBUG] 2017-04-16 12:44:46,872 freemarker.cache debug(45) Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+[DEBUG] 2017-04-16 12:54:48,596 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 12:54:48,614 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 12:54:49,889 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 12:55:22,764 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-16 12:55:22,767 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-16 12:55:22,771 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-16 12:55:22,774 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-16 12:55:22,775 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-16 12:59:21,970 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 12:59:21,988 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 12:59:23,264 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 13:00:11,158 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-16 13:00:11,161 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-16 13:00:11,165 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-16 13:00:11,168 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-16 13:00:11,169 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
+[DEBUG] 2017-04-16 13:02:29,547 com.invoiceplane.utilities.Driver getDriver(60) Setting Browser to CHROME
+[DEBUG] 2017-04-16 13:02:29,578 com.invoiceplane.utilities.Driver getDriver(62) Setting Driver Time Out to 20 Seconds
+[DEBUG] 2017-04-16 13:02:30,906 com.invoiceplane.utilities.Driver getDriver(64) Maximising Browser Window
+[DEBUG] 2017-04-16 13:03:21,644 freemarker.cache debug(45) Couldn't find template in cache for "Extent.Offline.ftl"("en_US", UTF-8, parsed); will try to load it.
+[DEBUG] 2017-04-16 13:03:21,647 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en_US.ftl"): Not found
+[DEBUG] 2017-04-16 13:03:21,651 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline_en.ftl"): Not found
+[DEBUG] 2017-04-16 13:03:21,654 freemarker.cache debug(45) TemplateLoader.findTemplateSource("Extent.Offline.ftl"): Found
+[DEBUG] 2017-04-16 13:03:21,654 freemarker.cache debug(45) Loading template for "Extent.Offline.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/user/IdeaProjects/MyPOM/lib/extentreports-java-2.41.0.jar!/com/relevantcodes/extentreports/view/Extent.Offline.ftl"
